@@ -1,4 +1,4 @@
-# proj-dtScience-machineLearning-Support-Vector-Machines
+# proj-dtScience-machineLearning-Support-Vector-Machines (SVMs)
 Projeto referente ao estudo de Python para Data Science e Machine Learning com SciKit Learn incluindo Support Vector Machines
 <br>
 ### Temas abordados no aprendizado até o momento:
